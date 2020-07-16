@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1083781520873",
+    "firebase_url": "https://switcheroo-78756.firebaseio.com",
+    "project_id": "switcheroo-78756",
+    "storage_bucket": "switcheroo-78756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083781520873:android:1d49e20c9307784385ff78",
+        "android_client_info": {
+          "package_name": "com.Garage48.SwitcheRoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083781520873-polqdti19fm2u235vmshvkiikvekors4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsC0VqIo7cuFHtmdH-oladFsL4RGY7fSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083781520873-polqdti19fm2u235vmshvkiikvekors4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
